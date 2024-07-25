@@ -1,0 +1,12 @@
+DESKTOP PET CONFIG
+
+*Pets: (Ducky, Cat, Bird)
+
+e.g.
+Ducky
+Bird
+Cat
+
+Enter pets after this line:
+bird 
+cat
